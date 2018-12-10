@@ -1,5 +1,5 @@
 # PSP
 ___
 juegos:
-*gta 
-*god of war
+*gta 1
+*god of war 1
